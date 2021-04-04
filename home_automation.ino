@@ -1,8 +1,8 @@
 #include <ESP8266WiFi.h>
 
 // Add wifi access point credentiaals
-const char* ssid     = "faiba";
-const char* password = "mega@2020";
+const char* ssid     = "Wasksofts system";
+const char* password = "";
 
 // Set port to 80
 WiFiServer server(80);
